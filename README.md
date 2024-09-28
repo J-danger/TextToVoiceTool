@@ -30,10 +30,6 @@ This intended to help people with limiting disabilities effectively communicate 
 4. **Delete a card:** Click the "Delete" button associated with a specific card to remove it.
 5. **Play card audio (optional):** If your browser supports text-to-speech, clicking "Play Audio" will utilize the built-in functionality to read the card's text aloud.
 
-**Frontend Code (Optional)**
-
-If you're not including the frontend code in the repository, remove this section or add a note indicating it's not provided. Otherwise, provide instructions on how to integrate the frontend with your Flask backend.
-
 **Database (Optional)**
 
 This project currently uses a SQLite database named `cards.db` stored in the project directory. If you prefer a different database or storage approach, modify the `SQLALCHEMY_DATABASE_URI` configuration in `app.config` accordingly.
