@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+dist/
+*.egg-info
+docs/_build
+lib/python3.8/site-packages/*
+venv/
+
+# Editor-specific files
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.ropeproject/
+.tox/
+
+# IDE-specific files
+.idea/
+.DS_Store
+
+# Git-specific files
+.git/

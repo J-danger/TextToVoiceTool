@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #0033A0; /* Broncos blue */
+    color: #FFFFFF; /* White text for contrast */
+    font-family: 'Arial Black', Arial, sans-serif; /* Bold font for better readability */
+}
+
+.card {
+    margin: 20px;
+    padding: 20px; /* Add padding for a better look */
+    background-color: rgba(255, 79, 0, 0.9); /* Semi-transparent Broncos orange */
+    border: 2px solid #0033A0; /* Blue border to match team color */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow effect */
+    color: #FFFFFF; /* Ensure text is white for readability */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7); /* More pronounced text shadow */
+    font-size: 1.2em; /* Increase font size for better readability */
+}
+
+#cardContainer {
+    margin-top: 10px;
+    display: flex; /* Flexbox for alignment */
+    justify-content: center;
+    flex-wrap: wrap; /* Allow cards to wrap on smaller screens */
+    background-color: #0033A0; /* Broncos blue */
+    padding: 10px; /* Padding around container */
+    border-radius: 10px; /* Rounded corners */
+}
+
+#userInputContainer {
+    margin-top: 10px;
+    display: flex; /* Flexbox for alignment */
+    justify-content: center;
+    flex-wrap: wrap; /* Allow cards to wrap on smaller screens */
+    background-color: #0033A0; /* Broncos blue */
+    padding: 10px; /* Padding around container */
+    border-radius: 10px; /* Rounded corners */
+}
