@@ -1,8 +1,13 @@
+# Richard Reader
+
 **Description**
 
 This Flask application provides an interface for managing a collection of flashcards or text snippets. Users can create, view, delete, and optionally play audio versions of the cards using text-to-speech functionality.
 
 This intended to help people with limiting disabilities effectively communicate with common phrases. 
+
+![image](https://github.com/user-attachments/assets/b4464e10-efe6-4d9b-8573-98f97483870d)
+
 
 **Features**
 
